@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApiListarPaises</string>
+    <string name="titulo">Lista de API en ListView</string>
+</resources>
